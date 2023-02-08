@@ -1,2 +1,6 @@
  Git nanmo wakaran
+<<<<<<< HEAD
 Nande hensyuusitanaiyouga local demo kierun?
+=======
+Branch nannmowakaran
+>>>>>>> wakarankedo_bunki
